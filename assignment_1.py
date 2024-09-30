@@ -1,3 +1,5 @@
+# Juancamilo Castaneda, Joshua Pelzer, Ryan Stallings, Brian Hannah
+
 import csv
 from operator import itemgetter
 
